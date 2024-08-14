@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sara 👩🏻‍💻</h2>
 
 <p align='center'>
-  iOS Developer | Swift
+  Backend Java Developer | Java
 </p>
 
 
@@ -65,9 +65,9 @@
 <p align="center">
   🎓 Science and Technology Student - <a href="https://www.ufabc.edu.br/"><b>UFABC</b></a>.
   <br>
-  📌 iOS Developer
+  📌 Backend Java Developer
   <br>
-  💻 23 years old, curious :laughing: and passionate about technology and travel :earth_americas: :books: 
+  💻 24 years old, curious :laughing: and passionate about technology and travel :earth_americas: :books: 
   <br>
 </p>
   
